@@ -32,7 +32,7 @@
 # 致谢
 
 - **KernelSU**：由 [tiann](https://github.com/tiann) 开发。
- - **KernelSU-Next**：由 [rifsxd](https://github.com/rifsxd/KernelSU-Next) 开发。
+- **KernelSU-Next**：由 [rifsxd](https://github.com/rifsxd/KernelSU-Next) 开发。
 - **Magic-KSU**：由 [5ec1cff](https://github.com/5ec1cff/KernelSU) 开发。
 - **SUSFS**：由 [simonpunk](https://gitlab.com/simonpunk/susfs4ksu.git) 开发。
 - **SUSFS Module**：由 [sidex15](https://github.com/sidex15) 开发。
@@ -58,7 +58,7 @@
 
 # 特别感谢以下人员的贡献！
 - **[simonpunk]**(https://gitlab.com/simonpunk/susfs4ksu.git) - 创建了 SUSFS！
-- ** [sidex15]**(https://github.com/sidex15) - 创建模块！
+- **[sidex15]**(https://github.com/sidex15) - 创建模块！
 - **[backslashxx]**(https://github.com/backslashxx) - 帮助打补丁！
 - **[Teemo]**(https://github.com/liqideqq) - 帮助打补丁！
 - **[幕落]**(https://github.com/MuLuo688) - 捐赠！
