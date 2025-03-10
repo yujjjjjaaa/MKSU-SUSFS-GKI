@@ -19,4 +19,4 @@
 -> https://github.com/sidex15/ksu_module_susfs
 
 MKSU-SKN：
--> https://github.com/ShirkNeko/ShirkNeko
+-> https://github.com/ShirkNeko/KernelSU
